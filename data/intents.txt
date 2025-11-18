@@ -1,0 +1,33 @@
+# Greeting
+patterns: hello|hi|hey|good morning|good evening|yo|hi there
+responses: Hello! How can I assist you today?|Hi there! What can I do for you?|Hey! How may I help?
+
+# Goodbye
+patterns: bye|goodbye|see you|see ya|talk later|i'm leaving|later bro
+responses: Goodbye! Have a great day ahead!|See you soon!|Take care and come back anytime!
+
+# Thanks
+patterns: thanks|thank you|thx|tysm|thanks a lot|really appreciate it
+responses: You're welcome!|Happy to help!|Anytime!
+
+# BotIdentity
+patterns: who are you|what are you|what can you do|are you a robot|what is your purpose
+responses: I'm an AI chatbot designed to help you with programming, internships, and general questions.|I'm your virtual assistant—here to answer doubts and guide you!
+
+# SmallTalk_Mood
+patterns: how are you|how are you doing|how’s things|how is it going
+responses: I'm doing great! How can I help you today?|Always ready to help. What’s up?
+
+# SmallTalk_Time
+patterns: what time is it|tell me the time|current time|time now|what's the time
+responses: I can't access real-time clock, but you can check your device's time!|I don’t have a built-in clock, but your system time will help you.
+
+# SmallTalk_Name
+patterns: what's your name|your name please|who am i talking to|what should i call you
+responses: You can call me your AI assistant.|I'm your helpful chatbot. No fancy name needed!
+
+# Help_General
+patterns: help me|i need help|can you help|please help|assist me
+responses: Of course! Tell me what you need help with.|Sure—I'm here to help. What's the issue?
+
+responses: I'm not sure I understood that—could you rephrase it?|Hmm, that didn’t match anything I know. Try asking differently?
